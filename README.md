@@ -1,42 +1,51 @@
-# TaskMaster: React Task & Schedule App
+# WT_assignment: Task Scheduler App
 
 ## Overview
 
-Welcome to TaskMaster, a task and schedule management app built using React and the React Countdown library. This application is designed to help you stay organized, focused, and on top of your daily tasks with an intuitive and visually appealing interface.
+This is a Task Scheduler web application built with React and Tailwind CSS. It allows users to create, manage, and visualize tasks and schedules efficiently. The app features a modern UI, responsive design, and essential productivity tools.
 
 ## Features
 
-### 1. Task Management
-
-Easily create, edit, and delete tasks with a user-friendly interface. Organize your tasks with custom categories and prioritize them to ensure a seamless workflow.
-
-### 2. Schedule Visualization
-
-TaskMaster provides a clear and dynamic schedule visualization to help you manage your time effectively. The schedule view allows you to see your tasks at a glance and plan your day efficiently.
-
-### 3. Countdown Timer
-
-Utilize the React Countdown library to set countdown timers for specific tasks. Stay focused and track your progress with real-time countdowns, enhancing your productivity and time management skills.
-
-### 4. Responsive Design
-
-TaskMaster is built with a responsive design, ensuring a seamless experience across various devices. Access your tasks and schedules on the go, whether you're using a desktop, tablet, or smartphone.
-## Demo
-
-Check out the live demo of TaskMaster [here](https://taskmaster-schedule.netlify.app/).
+- **Task Management:** Create, edit, and delete tasks easily.
+- **Schedule Visualization:** View your daily or weekly schedule at a glance.
+- **Countdown Timer:** Stay focused with built-in timers for tasks.
+- **Responsive Design:** Works seamlessly on desktop and mobile devices.
 
 ## Getting Started
 
 ### Prerequisites
 
-For offline use, make sure you have Node.js and npm installed on your machine.
+- Node.js and npm installed on your machine.
 
 ### Installation
 
-1. Clone the repository: `git clone https://github.com/Patrix726/Task-Schedule-App-with-React.git`
-2. Navigate to the project directory: `cd Task-Schedule-App-with-React`
-3. Install dependencies: `npm install`
-4. Start the development server: `npm start`
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/SherwinRodriguez/WT_assignment.git
+   ```
+2. Navigate to the project directory:
+   ```sh
+   cd WT_assignment/TaskScheduler
+   ```
+3. Install dependencies:
+   ```sh
+   npm install
+   ```
+4. Start the development server:
+   ```sh
+   npm run dev
+   ```
+
+## Folder Structure
+
+- `src/` - Main source code
+  - `Components/` - React components
+  - `assets/` - Static assets
+- `public/` - Public files
+
+## License
+
+This project is for educational purposes.
 
 ## Usage
 
@@ -55,4 +64,5 @@ This project is licensed under the [MIT License](LICENSE).
 TaskMaster is powered by the open-source community. We would like to express our gratitude to the developers behind React and React Countdown for creating amazing tools that make this app possible.
 
 Happy tasking with TaskMaster! 🚀
+
 # WT_assignment
