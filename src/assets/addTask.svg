@@ -1,0 +1,26 @@
+<svg
+              width="101"
+              height="104"
+              viewBox="0 0 101 104"
+              fill="none"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+                <path
+                  fillRule="evenodd"
+                  clipRule="evenodd"
+                  d="M27.4983 22.1311C39.0023 9.86006 54.4251 7.3769 64.2787 16.4726C74.1324 25.5682 74.6559 50.6718 64.2787 61.7408C53.9015 72.8099 29.984 69.2586 21.8397 61.7408C13.6954 54.223 15.9942 34.4021 27.4983 22.1311Z"
+                  fill="#ffb804"
+                />
+                <path
+                  d="M44.4738 33.4482V47.5945"
+                  stroke="white"
+                  strokeWidth="3.9"
+                  strokeLinecap="round"
+                />
+                <path
+                  d="M37.4006 40.5213H51.547"
+                  stroke="white"
+                  strokeWidth="3.9"
+                  strokeLinecap="round"
+                />
+            </svg>
